@@ -1,0 +1,8 @@
+{
+    "name": "Channel Drawer",
+    "version": "1.2.1",
+    "author": "seilent",
+    "theme": "channeldrawer.theme.css",
+    "license": "GNU General Public License v3.0",
+    "description": "Channel drawer that doesn't push chat window for better performance."
+}
