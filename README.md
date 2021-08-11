@@ -12,7 +12,7 @@ Enable it from theme menu.
 ```
 cd powercord/src/powercord/themes && git clone https://github.com/seilent/nc-channel-drawer
 ```
-Then refresh discord.
+Refresh discord to apply the css.
 
 ## Preview
 https://user-images.githubusercontent.com/88354811/128919295-7c193a97-99b9-46e6-9f9f-75ef4d1711e8.mp4
