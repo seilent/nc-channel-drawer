@@ -6,7 +6,8 @@ Try it yourself [HERE!](https://gibbu.github.io/ThemePreview/?file=https://seile
 ## Installation
 #### BetterDiscord
 Download this [FILE](https://github.com/seilent/nc-channel-drawer/blob/main/channeldrawer.theme.css) and put it at themes folder.  
-Enable it from theme menu.
+Enable it from theme menu.  
+Works in minimal mode.
 
 #### Powercord
 ```
