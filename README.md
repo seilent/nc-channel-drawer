@@ -16,5 +16,4 @@ cd powercord/src/powercord/themes && git clone https://github.com/seilent/nc-cha
 Refresh discord to apply the css.
 
 ## Preview
-https://user-images.githubusercontent.com/88354811/128956379-c65a7cb0-7269-4b1f-8c3e-79f03c3b895e.mp4
-
+https://user-images.githubusercontent.com/88354811/128961274-d84c1a41-e168-4763-886a-291159e4006a.mp4
