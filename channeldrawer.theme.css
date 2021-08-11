@@ -56,6 +56,7 @@
     padding-left: var(--sv-w);
     margin-bottom: -1px;
     background-color: var(--background-tertiary);
+    transition: width .2s, background-color 0.3s;
 }
 
 [class*="base-"] section[class*="panels-"] > [class*="container-"] {
